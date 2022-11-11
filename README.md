@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divamkumar
-- 👀 I’m interested in web development, cloud systems, blockchain development, and machine learning
+- 👀 I’m interested in web development, machine learning, and graphics
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on data science projects
+- 💞️ I’m looking to collaborate on virtual reality projects
 - 📫 How to reach me: check out my <a href="https://divamkumar.github.io/css-personal-site/">website</a>.
 
 <!---
