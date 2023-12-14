@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @divamkumar
-- 👀 I’m interested in web development, machine learning, and graphics
-- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects
 - 📫 Check out my <a href="https://divamkumar.github.io/css-personal-site/">website</a>.
 
