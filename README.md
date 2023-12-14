@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, machine learning, and graphics
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: check out my <a href="https://divamkumar.github.io/css-personal-site/">website</a>.
+- 📫 Check out my <a href="https://divamkumar.github.io/css-personal-site/">website</a>.
 
 <!---
 divamkumar/divamkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
