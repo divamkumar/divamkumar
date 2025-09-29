@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @divamkumar
-- 📫 Check out my <a href="https://www.youtube.com/watch?v=XfELJU1mRMg">website</a>.
 
 <!---
 divamkumar/divamkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
